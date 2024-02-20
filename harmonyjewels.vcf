@@ -1,0 +1,39 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Harmony Jewels;; ;
+FN: Harmony Jewels
+ORG:Customer Service Manager
+COMPANY:Customer Service Manager
+TITLE:Daniel
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:+44 7908490125
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Sales@harmonyjewels.co.uk
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:https://maps.app.goo.gl/mp9CCqb3nML98jvz7
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100875140
+URL;TYPE=Website:https://www.harmonyjewels.co.uk/
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:https://api.whatsapp.com/send/?phone=447908490125&text&type=phone_number&app_absent=0
+
+
+URL;TYPE=Instagram:https://www.instagram.com/harmonyjewelslondon?igsh=Y3N6azd4M3BqNWVn
+URL;TYPE=TikTok:https://www.tiktok.com/@harmonyjewelslondon?lang=en
+URL;TYPE=Facebook:https://www.facebook.com/harmonyjewelslondonuk
+URL;TYPE=Pinterest:https://www.pinterest.co.uk/harmonyjewelslondon/_created/
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACkklEQVR4nO2av0sycRzHX2oIeQ1XQxC6Ci4RjgVCyzm1NDUFEjZI9osbBIf+gxIMlHAJmloag0YJHB2CluBcUmoJhyCQw7MhqoeHh1Cf089J39fsvd9vXnxP/II+y7J6/GL80gOkUQKkB0ijBEgPkEYJkB4gjRIgPUAaJUB6gDRKgPQAaZQA6QHSKAHSA6RRAqQHSKMESA+QZiABzWYTwzAwDIO7u7u+n9va2sIwDMrl8o+ZqVQK27b7yry/v/96znGcvrf8jadOQKvV4uLiYqydnhIAcHl5SaPRGFufZwTous7s7CyO43B8fPxfx3oQPCPA5/Oxu7sLwMPDA1dXV2Pp9YyAt7c3EokEKysrAJyfn/P8/DzyXs8I6HQ6AOzv76NpGp1Oh0KhMPJezwgAsG2bubk50uk0APV6nZubm5F2ekpAt9sFYG1tjcXFRQDOzs5ot9sj65wa9kHTNN3cAXwL+Mzf3t7m9fWV09NTjo6OXO8Dj52APwmHw2xubgJwe3tLrVYbSc/QJyCXyxGLxfr6bD6f5+npaeCOjY0NqtUqlmVRLBZZWlpC07SBc35iaAHz8/NEIpH+SqaGq/H7/ZimSTab5eXlhUqlwsHBAYBrP5Q8+wp8Eo1GWV9fB+D6+vrrEhYIBFzJ97wA+LhNLiws0Ov1ODk5wbZtgsGgK9kTISAYDHJ4eAh83xinp6ddyZ4IAQDxeJxkMgl83BiH+VL9FxMjACCTyaDrOo7jUCqVXMmcKAEzMzPs7OwA8Pj46ErmRAkAWF1dZXl52bW8iRMAsLe3RygUciXLp/4q+8tRAqQHSKMESA+QRgmQHiCNEiA9QBolQHqANEqA9ABplADpAdIoAdIDpFECpAdI8+sFvANoSrIAEZnoUAAAAABJRU5ErkJggg==
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
